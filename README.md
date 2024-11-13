@@ -1,7 +1,7 @@
 # Spending Tracking System
 _A management system for users to monitor and track their spending._
 
-Unit 2 Project for General Assembly JDI course.
+Unit 2 Project for General Assembly JDI course. (Group project)
 
 
 
